@@ -1,0 +1,5 @@
+.DS_Store
+objs/
+libs/
+[Dd]ebug/
+[Dd]ebug.win32/
